@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+}
+MYSTERY_MAN{
+    color: rgb(255, 255, 255);
+}
+.prop{
+    margin-left: 40%;
+    position:absolute;
+
+    width: 20%;
+    text-decoration: white;
+    font-size: 150%;
+    color: white;
+    font:Tahoma;
+}
+WDG{
+    font-size: 66%;
+    color: black;
+}
+
+.typing span {
+  opacity: 0;
+  display: inline-block;
+  animation: css-animation-typing 0.3s forwards;
+}
+
+@keyframes css-animation-typing {
+  to {
+    opacity: 1;
+  }
+}
+
