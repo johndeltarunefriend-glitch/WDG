@@ -6,8 +6,8 @@ MYSTERY_MAN{
 }
 .prop{
     position:absolute;
-
-    width: 20%;
+    marfin-left:20%
+    width: 100%;
     text-decoration: white;
     font-size: 150%;
     color: white;
